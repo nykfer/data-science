@@ -2,3 +2,4 @@
 - In the features-selection folder, examples of using different methods from scikit-learn to reduce demensionality
 - In the cls.ipynb file parameters tuning for neural network (some old cells was deleted to reduce running time)
 - In the lab2.ipynb file exploratory data analysis, comparison Regression algorithms
+- In the classification folder, files for building a convolutional neural network for a simple classification task
